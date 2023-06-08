@@ -4,6 +4,8 @@
 
 #### Designing a user panel to display all files inside the video and image file in a special style for each size, with a change in the background color of the site and storage in localstorage.
 
+#### Design a custom video player with a random video ad display from a dedicated folder every time with the Skip Ad button.
+
 Explanatory video of  [website design](https://youtu.be/8QmMtFolrM4).
 
 ### Codes used
