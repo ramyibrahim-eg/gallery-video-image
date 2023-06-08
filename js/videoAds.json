@@ -1,0 +1,16 @@
+{
+  "videos": [
+    {
+      "url": "../upload/ads/ads-1.mp4"
+    },
+    {
+      "url": "../upload/ads/ads-2.mp4"
+    },
+    {
+      "url": "../upload/ads/ads-3.mp4"
+    },
+    {
+      "url": "../upload/ads/ads-4.mp4"
+    }
+  ]
+}

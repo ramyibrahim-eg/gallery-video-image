@@ -1,0 +1,23 @@
+<section class="radio-section">
+  <script>
+    if (
+      !localStorage.getItem("login") ||
+      window.location.href.indexOf("chose") !== -1
+    ) {
+      window.location.replace("../");
+    }
+  </script>
+
+  <div class="radio-list">
+    <div class="radio-item" id="video_item">
+      <input name="radio" id="radio1" type="radio" /><label for="radio1"
+        >Upload a video</label
+      >
+    </div>
+    <div class="radio-item" id="photo_item">
+      <input name="radio" id="radio2" type="radio" /><label for="radio2"
+        >Upload a photo</label
+      >
+    </div>
+  </div>
+</section>
