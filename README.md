@@ -10,5 +10,5 @@ Explanatory video of  [website design](https://youtu.be/8QmMtFolrM4).
 #### HTML5, CSS, Jquery, javascript, localstorage
 
 ![alt text](https://raw.githubusercontent.com/ramyibrahim-eg/gallery-video-image/main/screenshot.PNG "Logo Website From React")
-####--------------
+---------------------------
 ![alt text](https://raw.githubusercontent.com/ramyibrahim-eg/gallery-video-image/main/screenshot-1.PNG "Logo Website From React")
